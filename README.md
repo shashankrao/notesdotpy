@@ -20,7 +20,7 @@ This script was derived from a Python script found on the [Rosetta Code website]
 
 ### Optional:
 - setup an alias in your `.bash_profile`, e.g. `alias note="notes.py"`
-- additionally, setup another alias in `.bash_profile`, as `alias note="notes.py --delete"`
+- additionally, setup another alias in `.bash_profile`, as `alias rmnote="notes.py --delete"`
   
 ## Usage
 - `notes.py` -- simply prints the contents of the file with line number
